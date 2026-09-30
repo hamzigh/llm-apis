@@ -1,0 +1,17 @@
+[
+  {
+    "task": "Write a Python function that reads a JSON file containing a list of user objects with 'name' and 'email' fields, filters users whose email domain is 'gmail.com', and returns them as a sorted list by name."
+  },
+  {
+    "task": "Create a TypeScript interface for a blog post object with properties: id (number), title (string), content (string), tags (array of strings), and createdAt (Date). Then write a function that takes an array of blog posts and returns only posts that contain a specific tag."
+  },
+  {
+    "task": "Write a Python script that converts a Python dictionary to a formatted JSON string with proper indentation (4 spaces), handles special characters correctly, and saves it to a file named 'output.json'."
+  },
+  {
+    "task": "Create a TypeScript function that parses a JSON response from an API, validates that required fields exist (id, name, status), and transforms it into a different object structure. Handle errors gracefully with try-catch."
+  },
+  {
+    "task": "Write a Python program that reads a JSON file containing an array of product objects with 'name', 'price', and 'quantity' fields, calculates the total inventory value, groups products by price range (under $10, $10-$50, over $50), and outputs the results as JSON."
+  }
+]
